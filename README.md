@@ -9,8 +9,8 @@ Also, we all know that it feels better to read from a paper than a pdf. There ar
 ### FRONTEND
 Tkinter GUI Toolkit
 ### BACKEND
-Python
-MySql
+1. Python
+2. MySql for database
 
 ### Have a glance at BOOK BUFFET's interface
 
