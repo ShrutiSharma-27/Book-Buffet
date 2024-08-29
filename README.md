@@ -2,7 +2,7 @@
 A medium to connect donors to those who need books. There's a very big question mark among those who don't want to sell their books in scrap but to donate them to needy ones. So, this project is made to solve this problem.
 
 ### Overview :
-I've made this project in class 12th under the guidance of my CS teacher Mrs. Niti Arora. I had observed this problem earlier that the books I'd purchased would become useless for me after completion of my course. Then, what after this?
+I've made this project after observing this problem that the books I'd purchased would become useless for me after completion of my course. Then, what after this?
 It's impossible for someone to wander around and choose the perfect one for his/her books. Therefore, with the help of Book Buffet's platform, the donor just need to fill a form for the books he want to donate and his books will be safely given to those in need.
 Also, we all know that it feels better to read from a paper than a pdf. There are several websites that are providing free pdfs of books but it would be great if we have a platform from where we can get desired books at minimal price (I thought the price to be 10% of mrp of that book & this amount will be used to purchase books that are not their in our buffet but are in demand) or we can borrow them for free.
 
